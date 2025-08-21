@@ -1,4 +1,4 @@
-# Deployed to netlify
+# Deployed using netlify
 Click the link to see the website https://movie-mrk.netlify.app/
 
 # React + Vite
