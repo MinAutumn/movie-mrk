@@ -1,3 +1,6 @@
+# Deployed to netlify
+Click the link to see the website https://movie-mrk.netlify.app/
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
